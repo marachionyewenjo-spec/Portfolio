@@ -56,8 +56,7 @@ The portfolio combines **HTML, CSS, Bootstrap, and JavaScript** to create a colo
 portfolio/
 │
 ├── index.html
-├── style.css
-└── script.js
+└── style.css
 ```
 
 ### `index.html`
@@ -83,15 +82,6 @@ Contains the custom styling, including:
 * Cards
 * Background effects
 * Carousel styling
-
-### `script.js`
-
-Handles the interactive functionality:
-
-* Typing animation
-* Navbar scroll effect
-* Scroll reveal animations
-* Mobile navigation behavior
 
 ---
 
